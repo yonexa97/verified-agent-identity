@@ -3,7 +3,7 @@ name: yonexa97
 on:
   workflow_dispatch:
     inputs:
-      agent_name:
+      agent_name:cloudya
         description: 'cloud'
         required: true
         default: 'cloud'
